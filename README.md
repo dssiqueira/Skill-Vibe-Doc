@@ -15,6 +15,11 @@
   O problema não é a IA. É o briefing.
 </p>
 
+<p align="center">
+  <a href="assets/vibe-doc.mp4"><img src="assets/demo.gif" alt="Demonstração: instalar a skill, pedir o Vibe Doc e receber os arquivos" width="800"></a><br>
+  <sub><a href="assets/vibe-doc.mp4">Assista ao vídeo completo, com narração (42s)</a> · <a href="https://doug.ia.br/vibedoc#video">ou na página do Vibe Doc</a></sub>
+</p>
+
 ---
 
 Um PRD é para um dev que faz perguntas. Um **Vibe Doc** é para uma IA que assume. Esta skill faz a IA assumir certo: **entrevista você, escreve o briefing do seu produto e mantém tudo atualizado enquanto o código anda.**
