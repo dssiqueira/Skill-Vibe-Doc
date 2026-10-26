@@ -182,5 +182,6 @@ Feito por [Douglas Siqueira](https://doug.ia.br), que usa o Vibe Doc para constr
 - Página do método: [doug.ia.br/vibedoc](https://doug.ia.br/vibedoc)
 - Handbook *Vibe Coding na Prática*: [doug.ia.br/handbooks/vibe-coding-pm-builder](https://doug.ia.br/handbooks/vibe-coding-pm-builder)
 - Newsletter: [Doug Drops](https://doug.ia.br/dougdrops)
+- Consultoria de IA aplicada: [dsiqueira.com](https://dsiqueira.com)
 
 Licença [MIT](LICENSE). Use, adapte e compartilhe.
